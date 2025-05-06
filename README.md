@@ -2,7 +2,7 @@
 **Author:** Frank Nketiah  
 **Tools Used:** Power BI and Excel  
 **Dataset:** `Tourism Data.csv`  
-**Dashboard File:** `Frank Nketiah Tourism Analysis Dashboards.pbix`  
+**Dashboard File:** `Tourism Analysis Dashboards.pbix`  
 
 ## Project Overview  
 This project presents a data-driven analysis of tourism trends using an interactive Power BI dashboard. It is designed to uncover key insights about tourist inflows, seasonal patterns, and regional performance — empowering tourism stakeholders to make strategic, insight-led decisions.
