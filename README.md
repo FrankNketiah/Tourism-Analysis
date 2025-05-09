@@ -53,5 +53,5 @@ The raw dataset, `Tourism Data.csv`, contains structured tourism data with the f
 ## Contact  
 **Frank Nketiah**  
 Data Analyst | Tourism & Development Strategy  
-franknketiah@outlook.com | Accra, Ghana  
+franknketiah@gmail.com | Accra, Ghana  
 [LinkedIn](#) | [Portfolio](#)
